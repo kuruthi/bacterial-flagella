@@ -1,0 +1,136 @@
+Apamin (Apis mellifera); Apamin; Apamin (apis mellifera)
+omega-Agatoxin; Omega-Aga-1A; Omega-agatoxin 1A; Omega-agatoxin-1A; Omegat agatoxin 1A; w-agatoxin 1A
+Phrixotoxin; Kappa-therphotoxin-Ps1a; Kappa-TRTX-Ps1a; PaTX1; Phrixotoxin-1
+Agitoxin; Agitoxin 1; Agitoxin-1; AgTx1
+Imperatoxin-A; Imperatoxin; Imperatoxin activator; IpTxa
+Kaliotoxin-3; KTX-3; KTX3; Potassium channel toxin alpha-KTx 3.9
+Margatoxin; MgTX; Potassium channel toxin alpha-KTx 2.2
+Tamapin; Potassium channel toxin alpha-KTx 5.4
+alpha-Bungarotoxin; a-Bungarotoxin; Alpha-Bgt; Alpha-BTX; BGTX; Long neurotoxin 1
+Calciseptine ; Calciseptin; CaS; L-type calcium channel blocker
+Convulxin; CVX; CVX-alpha; Snaclec convulxin subunit alpha
+Calitoxin; Calitoxin-1; CLX-1; Neurotoxic peptide
+Pertussis toxin; Pertussis toxin subunit 1; Pertussis toxin subunit 2; Pertussis toxin subunit 3; Pertussis toxin subunit 4; Pertussis toxin subunit 5; ptxA; ptxB; ptxC; ptxD; ptxE
+Tetanus toxin; Tentoxylysin; Tetanus toxin chain H; Tetanus toxin chain L
+Exotoxin A (Pseudomonas aeruginosa); ETA; Exotoxin A; NAD(+)--diphthamide ADP-ribosyltransferase
+Shiga toxin subunit A; StxA
+Leukocidin F; Gamma-hemolysin; H-gamma-I subunit; Leukocidin F-subunit; LukF
+Acanthophin; Acanthophin-D; Alpha-elapitoxin-Aa2d; Alpha-EPTX-Aa2d; Postsynaptic neurotoxin
+Notexin; Basic phospholipase A2 notexin; Phosphatidylcholine 2-acylhydrolase; svPLA2
+Pseudechetoxin; CRVP PsTx; Cysteine-rich venom protein pseudechetoxin
+omega-Conotoxin (Conus striatus); omega-Conotoxin; Omega-conotoxin SVIA; w-Conotoxin
+kappa-Conotoxin (Conus purpurascens); CGX-1051; Fin-popping peptide; k-Conotoxin; kappa-Conotoxin; Kappa-conotoxin PVIIA
+Rituximab; AntiCD20; Ig gamma-1 chain C region; MabThera; Rituxan
+Abrin-d; Abrin D; Abrin-D
+Botulinum neurotoxin type E; BoNT/E; Bontoxilysin-E
+Phallacidin; [28-(2,3-Dihydroxy-2-methylpropyl)-18-hydroxy-31-isopropyl-23-methyl-15,21,24,26,29,32,35-heptaoxo-12-thia-10,16,22,25,27,30,33,36-octaazapentacyclo[12.11.11.03,11.04,9.016,20]hexatriaconta-3(11 ),4,6,8-tetraen-34-yl](hydroxy)acetic acid
+alpha-Pompilidotoxin; a-PMTX; a-Pompilidotoxin; alpha PMTX; alpha-PMTX
+Atracotoxin, omega- (Hadronyche versuta); omega-ACTX- HV1; Omega-atracotoxin; omega-atracotoxin-HV1
+Stromatoxin; ScTx1; Stromatoxin-1
+Charybdotoxin; ChTX; ChTx-a; ChTX-Lq1; CTX; Potassium channel toxin alpha-KTx 1.1
+Cobatoxin; Cobatoxin-1; CoTx1; gtIX; Potassium channel toxin alpha-KTx 10.1
+Imperatoxin-1; Imperatoxin I; Imperatoxin inhibitor; IpTx1; IpTxi; Phospholipase A2 imperatoxin-1
+Maurotoxin; MTX; Potassium channel toxin alpha-KTx 6.2
+Tityustoxin (Tityus serrulatus ); Tityustoxin; Tityustoxin V; Toxin V; Toxin-5; Ts V; TsV
+beta-Bungarotoxin; b-Bungartoxin; Beta-2-bungarotoxin; Beta-Bgt; Beta-BTX; Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B2 chain
+Calcicludine; CAC; Kunitz-type serine protease inhibitor homolog calcicludine; L-type calcium channel blocker
+Dendrotoxin (Dendroaspis polylepis polylepis); Dendrotoxin-1; DTX-1; Kunitz-type serine protease inhibitor homolog dendrotoxin I; Venom basic protease inhibitor 1
+Sticholysin; Cytolysin St I; Cytotoxin; STCH; STCH1; Sticholysin I; Sticholysin-1
+Myotoxin (Crotalus viridis viridis); Myotoxin-1; Myotoxin-A
+Bifunctional hemolysin/adenylate cyclase (Bordetella pertussis); AC-HLY; ACT; Bifunctional hemolysin/adenylate cyclase; Clyclolysin; Cya; CyaA
+Alpha-hemolysin; a-Hemolysin; a-HL; Alpha-HL; Alpha-toxin
+Streptolysin O (Streptococcus pyogenes); Slo; Streptolysin O; Thiol-activated cytolysin
+mu-Agatoxin; m-Agatoxin; Mu-agatoxin I; Mu-agatoxin-1; Mu-agatoxin-Aa1a; Mu-AGTX-Aa1a
+Hanatoxin; Hanatoxin-1; HaTx1; Kappa-theraphotoxin-Gr1a; Kappa-TRTX-Gr1a
+Hydralysin (Chlorohydra viridissima); Hln-1; Hydralysin-1
+alpha-Conotoxin (Conus geographus); a-Conotoxin; alpha-Conotoxin; Alpha-conotoxin GI; Alpha-conotoxin GIA; G1
+mu-Conotoxin (Conus purpurascens); m-Conotoxin; mu-Conotoxin; Mu-conotoxin P3.7; Mu-conotoxin PIIIA
+Thionin (Pyrularia pubera); THI1; Thionin
+Botulinum neurotoxin type F; BoNT/F; Bontoxilysin-F
+beta-Amanitin; AMA2; b-Amanitin
+Restrictocin (Aspergillus restrictus); Restrictocin; Ribonuclease mitogillin
+Insulin; Humulin R; Insulin human; Novolin R
+beta-Pompilidotoxin; b-PMTX; b-Pompilidotoxin; beta PMTX; beta-PMTX
+Versutoxin; d-ACTX-Hv1; d-atracotoxin; d-atracotoxin-Hv1; delta-atracotoxin-Hv1; VTX
+Phoneutriatoxin; Phoneutria toxin; PhTx; PhTx3
+Chlorotoxin ; ClTx; CTX
+alpha-Cobratoxin; a-Cobratoxin; Alpha-CbT; Alpha-elapitoxin-Nk2a; Alpha-EPTX-Nk2a; Cbtx; Long neurotoxin 1; Neurotoxin 3
+Kaliotoxin; Kaliotoxins 1-3; KTX
+Noxiustoxin; NTx; Potassium channel toxin alpha-KTx 2.1; Toxin II.11
+Cardiotoxin (Naja atra); Cardiotoxin 3; Cardiotoxin analog III; Cardiotoxin-A3; CTX III; CTX-3; CTX-A3; Cytotoxin 3
+Dendrotoxin (Dendroaspis angusticeps); Delta-DTX; Dendrotoxin delta-DaTX; Kunitz-type serine protease inhibitor homolog delta-dendrotoxin; Protease inhibitor K; Toxin C13S1C3; Venom basic protease inhibitor K
+Mastoparan (Vespa tropica); Mastoparan T; Mastoparan-T
+Taipoxin; Neutral phospholipase A2 homolog taipoxin beta chain 1; svPLA2 homolog; Taipan toxin
+Edema factor; Anthrax toxin EF; Cya; EF
+Toxin A (Clostridium difficile); Actin-specific ADP-ribosyltransferase; cdtA; Clostridium difficile binary toxin A
+Alpha-toxin (Clostridium perfringens); Alpha-toxin; Hemolysin; Lecithinase; Phosphatidylcholine cholinephosphohydrolase; Phospholipase C; PLC
+Beta-hemolysin; b-Hemolysin; Beta-toxin; Hlb; Phospholipase C; SMase; Sphingomyelinase
+Cholera toxin; Cholera enterotoxin; Cholera enterotoxin subunit A; Cholera enterotoxin subunit B
+kappa-Atracotoxin (Hadronyche versuta); Janus-AcTx-Hv1c; Janus-atracotoxin-Hv1c; Kappa-AcTx-Hv1c; kappa-Atracotoxin; Kappa-atracotoxin-Hv1c; Kappa-hexatoxin-Hv1c; Kappa-HXTX-Hv1c
+Sphingomyelinase D (Loxosceles intermedia); Dermonecrotic toxin 1; LiRedDT1; Phospholipase D LiSicTox-alphaIA1a; PLD; SMase D 1; SMD 1; Sphingomyelin phosphodiesterase D 1; Sphingomyelinase D
+Erabutoxin; Erabutoxin A; ETXA; Short neurotoxin 1a
+Viperotoxin; Acidic phospholipase A2 RV-7; Phosphatidylcholine 2-acylhydrolase; Phospholipase A2 inhibitor; svPLA2; Viperotoxin F
+Stonustoxin; SNTX; Stonustoxin subunit alpha; Stonustoxin subunit beta
+Box jellyfish toxin (Chironex fleckeri); Box jellyfish toxin; Toxin CfTX-1
+Contryphan (Conus ventricosus); Contryphan; Contryphan-Vn
+Abrin-a; Abrin-a A chain; Abrin-a B chain; rRNA N-glycosidase
+Botulinum neurotoxin type B; BoNT/B; Bontoxilysin-B
+gamma-Amanitin; g-Amantin
+Microcystin-LR; 5-L-Arginine-microcystin LA; Acb-arg-add-cab-maa-dal-leu; Cyanoginosin LR; MCYST-LR; Microcystin LR; Microcystin-lr; Microcystin-LR microcystis aeruginosa; Microcystis aeruginosa toxin; Toxin LR; Toxin-LR
+Holocyclotoxin; Holocyclotoxin 1
+Robustoxin; d-ACTX-Ar1; delta atracotoxin; delta-ACTX-Ar1; Robustotoxin
+Huwentoxin; Huwentoxin IV; Huwentoxin-IV; HWTX
+kappa-Hefutoxin; k-Hefutoxin; k-HfTx1; Kappa-HfTx1; Potassium channel toxin kappa-KTx 1.1
+Kaliotoxin-1; KTX-1; KTX1; Potassium channel toxin alpha-KTx 3.1
+Scyllatoxin; Leiurotoxin I; Leiurotoxin-1; LeTx I; Potassium channel toxin alpha-KTx 5.1; ScyTx
+Crotamine ; CRO2; Crt; CRT-P1; Myotoxin
+Taicatoxin ; Kunitz-type serine protease inhibitor taicotoxin; Taicatoxin, serine protease inhibitor component; TCX; TSPI; Venom protease inhibitor 1; Venom protease inhibitor 2
+Eledoisin (Eledone cirrhosa); Eledoisin; Eledosine
+Hongotoxin; HgTX1; Hongotoxin-1; Potassium channel toxin alpha-KTx 2.5
+Protective antigen; Anthrax toxin PA; PA
+Toxin B (Clostridium difficile); Actin-specific ADP-ribosyltransferase; cdtB; Clostridium difficile binary toxin B
+Heat-labile enterotoxin (Escherichia coli); Heat-labile enterotoxin; Heat-labile enterotoxin A chain; Heat-labile enterotoxin B chain; LT; LTP
+Listeriolysin O; Hly; LLO; Thiol-activated cytolysin
+Delta-hemolysin; d-Hemolysin; Delta-lysin; Delta-toxin; Hld
+Enterotoxin type B; EntB; Enterontoxin B; SEB
+Melittin (Apis mellifera); Bee venom melittin; Forapin; Forapine; GIGAVLKVLTTGLPALISWIKRKRQQ-NH2; GIGAVLKVLTTGLPALISWIKRKRQQ-NH2 MELITTIN; Honeybee melittin; Melitten; Melittin; Melittin (apis cerana); Melittin (apis mellifera); Melittin (honeybee); Melittin (major); Melittin (major) (8CI); Melittin I; Melittin-t; Mellitin
+Heteroscodratoxin; Heteroscodratoxin-2; HmTx2; Kappa-theraphotoxin-Hm2a; Kappa-TRTX-Hm2a
+Disintegrin echistatin (Echis carinatus); Carinatin; Disintegrin echistatin; Disintegrin echistatin-alpha; Platelet aggregation activation inhibitor
+Vipoxin; Acidic phospholipase A2 homolog vipoxin A chain; Acidic phospholipase A2 homolog vipoxin B chain; Phosphatidylcholine 2-acylhydrolase; svPLA2
+Neoverrucotoxin; Neoverrucotoxin subunity alpha; Neoverrucotoxin subunity beta; NeoVTX
+Abrin-b; Abrin B
+Diphtheria toxin (Corynephage omega); Diphtheria toxin; DT; NAD(+)--diphthamide ADP-ribosyltransferase
+Botulinum neurotoxin type D; BoNT/D; Bontoxilysin-D
+Botulinum neurotoxin type C1; BoNT/C1; Bontoxilysin-C1
+Botulinum toxin; BoNT/A; Bontoxilysin A; Botox; BOTOX Cosmetic; Botulinum neurotoxin type A precursor; BTX-A; Dysport; Xeomin
+alpha-Sarcin (Aspergillus giganteus); a-Sarcin; alpha-Sarcin; Ribonuclease alpha-sarcin; rRNA endonuclease
+Alteplase; Activase; t-PA; t-plasminogen activator; Tissue-type plasminogen activator precursor; tPA
+Phalloidin; Phalloidine
+Ricin; Ricin A chain; Ricin B chain; rRNA N-glycosidase
+Poneratoxin; Pac-TX; PoTx
+Grammotoxin; GMTX; Omega-grammotoxin SIA
+alpha-Latrotoxin; a-Latrotoxin; a-LTX; alpha-LTX
+Heteropodatoxin; Heteropoda toxin; Heteropoda toxin 2; Heteropodatoxin-2; HpTx; HpTX2
+Iberiotoxin; IbTx; Potassium channel toxin alpha-KTx 1.3
+Kaliotoxin-2; KTX-2; KTX2; Potassium channel toxin alpha-KTx 3.5
+Kurtoxin; Ktx
+Slotoxin; PS-Sc(OTf)2; Scandium triflate; Scandium triflate resin; Scandium trifluoromethanesulfonate; Scandium(III) bis(trifluoromethanesulfonate), polymer-bound; Scandium(III) triflate; Scandium(III) trifluoromethanesulfonate; Trifluoromethanesulfonic acid scandium salt
+Crotoxin ; Crotalphine; Crotapotin; CTX subunit CA; Phospholipase A2 homolog crotoxin acid subunit CA
+Maurocalcin ; Maurocalcine; Mca
+Anthopleurin (Anthopleura xanthogrammica); Anthopleurin A; Anthopleurin-A; AP-A; ApA
+Lethal factor; Anthrax toxin LF; LF
+Perfringolysin O; Pfo; Theta-toxin; Thiol-activated cytolysin
+Dermonecrotic toxin (Pasteurella multocida); Dermonecrotic toxin; DNT; Mitogenic toxin; PMT
+Leukocidin S; Leukocidin S-subunit; LukS
+Enterotoxin type A; EntA; Enterotoxin A; SEA
+Pneumolysin; Ply; Thiol-activated cytolysn
+Lopap ; Lipocalin-1/4; Prothrombin activator
+Nigroxin; Basic phospholipase A2 nigroxin A; Phosphatidylcholine 2-acylhydrolase; svPLA2
+Ohanin; King cobra toxin
+delta-Conotoxin (Conus striatus); d-Conotoxin; delta-Conotoxin; Delta-conotoxin SVIE; Delta-SVIE; Omega-conotoxin SO-6; Ometa-conotoxin-4
+Abrin-c; Abrin C
+Botulinum neurotoxin type A ; BoNT/A; Bontoxilysin-A
+Shiga toxin subunit B; StxB
+Infliximab  ; Ig gamma-1 chain C region; Remicade
+Botulinum neurotoxin type G; BoNT/G; Bontoxilysin-G
+Streptokinase; Streptase; Streptokinase C precursor
