@@ -16,6 +16,6 @@ echo "./entrez.sh [Query_file.txt] [DATABASE] [FORMAT] [OUTPUT FILE NAME w/o EXT
 while read -r -u 3 line; do # -u fd - read from file descriptor
 	{
 #echo "$line"
-esearch -db "$db" -query "$line" | efetch -format "$format" > "$output"."$format"
+esearch -db "$db" -query "$line" | efetch -format "$format" >> "$output"."$format" ## >> means the output file gets concatenated
 	} 3<&- # the hyphen closes the file descriptor 3, so that esearch does not read from it
 done 3<"$input" # input file copied to a new file descriptor 3, 
