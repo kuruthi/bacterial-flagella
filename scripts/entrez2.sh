@@ -13,9 +13,18 @@ echo "Usage"
 echo "./entrez.sh [Query_file.txt] [DATABASE] [FORMAT]"
 [[ -f $1 && ( -n $2 ) && ( -n $3 ) ]] && input=$1 &&  db=$2 && format=$3 # unelegant but works # Testing the inputs
 echo "$input" "$db" "$format"
-while read -r -u 3 line; do # -u fd - read from file descriptor
+while read -r line; do
 	{
 #echo "$line"
-esearch -db "$db" -query "$line" | efetch -format "$format" > "$line"."$format"
-	} 3<&- # the hyphen closes the file descriptor 3, so that esearch does not read from it
-done 3<"$input" # input file copied to a new file descriptor 3, 
+esearch -db "$db" -query "$line" </dev/null | efetch -format "$format" >> output."$format"
+	} # Read detailed comment at the bottom
+done < "$input"
+
+exit
+
+## Have to thank u/aioeu who suggested adding </dev/null
+#+ Which I understand basically tells esearch to read from nothing all the
+#+ while letting esearch believe that it has read something.
+## The reason the while loop quits prematurely without reading all the 
+#+ queries when we didnot add </dev/null was because esearch was reading 
+#+ stdin along with the while loop and moved the file pointer to the end
