@@ -20,6 +20,6 @@ source ~/bacterial-flagella/scripts/functions.sh
 
 check_args "$1" "$2" "$3" ##Calling the function
 
-echo "$output"
+prot_result_count ##
 
 exit
