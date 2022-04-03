@@ -64,23 +64,61 @@ function prot_result_count {
 			echo "For " "$line"
 			echo "Results found in Protein database:" "$db1_count"
 			echo "Results found in Identical Protein Groups database:" "$db2_count"
-			if [ "$db1_count" -le "$db2_count" ] && [ "$db1_count" != 0 ] #-le because being less is what we want
+			if [ "$db1_count" -lt "$db2_count" ] #-lt because being less is what we want
 			then
+				if [ "$db1_count" != 0 ]
+				then
 				db="$db1"
-				echo "Choosing to download from " "$db1"
+				echo "Choosing to download from " "$db"
 				esearch -db "$db" -query "$line" | efetch -format "$format" >> "$output"
-			elif [ "$db1_count" -gt "$db2_count" ] && [ "$db2_count" != 0 ]
+				elif [ "$db1_count" == 0 ]
+				then
+					if [ "$db2_count" -le 20 ] 
+					then
+						db="$db2"
+						echo "Choosing to download from " "$db"
+						esearch -db "$db" -query "$line" | efetch -format "$format" >> "$output"
+					else
+						echo "Too many results to download"
+						echo "Passing " "$line" " to failed queries file" 
+						echo "$line" >> "$failed"
+					fi
+
+				fi
+
+			elif [ "$db2_count" -lt "$db1_count" ] 
 			then
+				if [ "$db2_count" != 0 ]
+				then
 				db="$db2"
-				echo "Choosing to download from " "$db2"
+				echo "Choosing to download from " "$db"
 				esearch -db "$db" -query "$line" | efetch -format "$format" >> "$output"
+				elif [ "$db2_count" == 0 ]
+				then
+					if [ "$db1_count" -le 20 ]
+					then
+						db="$db1"
+						echo "Choosing to download from " "$db"
+						esearch -db "$db" -query "$line" | efetch -format "$format" >> "$output"
+					else
+						echo "Too many results to download"
+						echo "Passing " "$line" " to failed queries file"
+						echo "$line" >> "$failed"
+					fi
+				fi	
 			elif [ "$db1_count" == 0 ] && [ "$db2_count" == 0 ]
 			then
 				echo "Zero results found in both databases"
 				echo "Passing failed query to failed_queries file"
 				touch "$failed"
 				echo "$line" >> "$failed"	
+			elif [ "$db1_count" != 0 ] && [ "$db2_count" != 0 ] && [ "$db1_count" == "$db2_count" ]
+			then
+				db="$db1"
+				echo "Equal results found in both databases"
+				echo "Downloading from " "$db"
+				esearch -db "$db" -query "$line" | efetch -format "$format" >> "$output"
 			fi
 		} 3<&-
-	done 3<"$input"
+	done 3<"$input" 2>"$error_file" #Redirect error to error.log
 }
