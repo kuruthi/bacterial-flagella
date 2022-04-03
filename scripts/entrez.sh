@@ -13,6 +13,7 @@ echo "Usage"
 echo "./entrez.sh [Query_file.txt] [DATABASE] [FORMAT] [OUTPUT FILE NAME w/o EXTENSION]"
 [[ -f $1 && ( -n $2 ) && ( -n $3 ) && ( -n $4)]] && input=$1 &&  db=$2 && format=$3 && output=$4 # unelegant but works # Testing the inputs
 #echo "$input" "$db" "$format"
+[[ -f "$output"."$format" ]] && cat /dev/null > "$output"."$format" # If the output file already exists empty its contents.
 while read -r -u 3 line; do # -u fd - read from file descriptor
 	{
 #echo "$line"
