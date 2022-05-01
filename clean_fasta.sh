@@ -12,7 +12,8 @@ set -x
 
 [[ -f $1 ]] && input="$1"
 
-cat "$input" | tr -d "\n" | sed -e 's/]/]\n/g' -e 's/>/\n>/g' -e 's/\n>/>/1' > "$input".new
+tr -d "\n" < "$input" | sed -e 's/]/]\n/g' -e 's/>/\n>/g' -e 's/\n>/>/1' > "$input".temp
+
 #Works but need to add checks to make sure there are no descrepancies between the number of seqs in the input and the output
 echo "Done"
 
