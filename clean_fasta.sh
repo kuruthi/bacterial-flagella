@@ -12,8 +12,8 @@ set -e
 #set -x
 small="smaller.fasta"
 large="larger.fasta"
-[[ -f "$small" ]] && rm "$small" #< /dev/null
-[[ -f "$large" ]] && rm "$large" #< /dev/null ##Emptying the contents of the output files if they already exist
+[[ -f "$small" ]] && cat /dev/null > "$small"
+[[ -f "$large" ]] && cat /dev/null > "$large" ##Emptying the contents of the output files if they already exist
 [[ -f $1 ]] && input="$1" && [[ -n $2 ]] && sort_by="$2"
 
 tr -d "\n" < "$input" | sed -e 's/]/]\n/g' -e 's/>/\n>/g' -e 's/\n>/>/1' > "$input".temp
